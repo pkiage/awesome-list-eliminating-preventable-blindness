@@ -82,8 +82,11 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 
 [The accomplishments of the global initiative VISION 2020: The Right to Sight and the focus for the next 8 years of the campaign](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491262/?report=classic)
 
+[Cataract incidence in sub-Saharan Africa: what does mathematical modeling tell us about geographic variations and surgical needs?](https://pubmed.ncbi.nlm.nih.gov/24070099/)
 
+[Outcomes of high volume cataract surgeries in a developing country](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1772816/)
 
+[Human resources for refraction services in Central Nepal](https://www.tandfonline.com/doi/abs/10.1111/cxo.12286)
 
 ## Books
 [The Epidemiology of Eye Disease 3rd Edition](https://www.worldscientific.com/worldscibooks/10.1142/p742)
