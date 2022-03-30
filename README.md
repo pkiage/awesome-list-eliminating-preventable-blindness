@@ -5,9 +5,6 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 ## Calculators
 [Procurement calculator for trichiasis management](https://www.trachomacoalition.org/resources/procurement-calculator-trichiasis-management)
 
-## Standard Lists & Procurement
-[IAPB Valued Supplier Scheme](https://valuedsupplier.iapb.org/)
-
 ## Articles, Reports, Presentations, & Dashboards
 [The Lancet Global Health Commission on Global Eye Health: vision beyond 2022](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30488-5/fulltext)
 
@@ -96,8 +93,12 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 [ICD-10 Chapter VII Diseases of the eye and adnexa](https://icd.who.int/browse10/2016/en#/VII)
 - [ICD-10 Chapter VII Diseases of the eye and adnexa Block H53-H54 Visual disturbances and blindness](https://icd.who.int/browse10/2016/en#/H53-H54)
 
-## Journals
+## Journals, Resource Centres, & Repositories
 Community Eye Health Journal (CEHJ)
+
+[IAPB Valued Supplier Scheme](https://valuedsupplier.iapb.org/)
+
+[National Health Planning Tools · Search](https://extranet.who.int/nhptool/Default.aspx)
 
 ## Organizations
 [The Queen Elizabeth Diamond Jubilee Trust](https://www.jubileetribute.org/)
