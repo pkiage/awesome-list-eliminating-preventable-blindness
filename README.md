@@ -111,6 +111,6 @@ Community Eye Health Journal (CEHJ)
 
 
 # Abbreviations
-Sx: Surgery
-ICD-10: International Statistical Classification of Diseases and Related Health Problems 10th Revision (ICD-10)-WHO Version for ;2016
-ISEE: Integrated, sustainable, excellent, equitable 
+- ICD-10: International Statistical Classification of Diseases and Related Health Problems 10th Revision (ICD-10)-WHO Version for ;2016
+- ISEE: Integrated, sustainable, excellent, equitable 
+- Sx: Surgery
