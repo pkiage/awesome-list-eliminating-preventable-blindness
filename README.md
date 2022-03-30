@@ -112,6 +112,28 @@ Community Eye Health Journal (CEHJ)
 [The Lancet Global Health Commision on Global Eye Health](https://globaleyehealthcommission.org/)
 
 
+# Frameworks
+### **5Ms**
+- Management
+- Manpower
+- Mobility
+- Material
+- Money
+
+### Health System Building Blocks
+**Blocks**
+- Leadership and governance
+- Service delivery
+- Health system financing
+- Health workforce
+- Medical products, vaccines and technologies
+- Health information systems
+
+**Desirable attributes**
+- Improved health (level and equity)
+- Responsiveness
+- Social and financial risk protection
+- Improved efficiency
 
 # Abbreviations
 - ICD-10: International Statistical Classification of Diseases and Related Health Problems 10th Revision (ICD-10)-WHO Version for ;2016
