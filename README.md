@@ -8,7 +8,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 [IAPB Valued Supplier Scheme](https://valuedsupplier.iapb.org/)
 
 ## Articles, Reports, Presentations, & Dashboards
-[The Lancet Global Health Commission on Global Eye Health: vision beyond 202](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30488-5/fulltext)
+[The Lancet Global Health Commission on Global Eye Health: vision beyond 2022](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30488-5/fulltext)
 
 [Magnitude, temporal trends, and projections of the global prevalence of blindness and distance and near vision impairment: a systematic review and meta-analysis](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext)
 
