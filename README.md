@@ -137,6 +137,22 @@ Community Eye Health Journal (CEHJ)
 - Social and financial risk protection
 - Improved efficiency
 
+**Planning Cycle Stage**
+- Situation assessment
+- Priority settings
+- Identifying effective strategies
+- Costing
+- Resource planning and budgeting
+- Programming and implementation development
+- Monitoring and evalutions
+
+**Planning Process**
+- Situation analysis and programming
+- Process
+- Finance and auditing
+- Implementation and Management
+- Results, monitoring and review
+
 # Abbreviations
 - ICD-10: International Statistical Classification of Diseases and Related Health Problems 10th Revision (ICD-10)-WHO Version for ;2016
 - ISEE: Integrated, sustainable, excellent, equitable 
