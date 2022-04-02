@@ -122,7 +122,7 @@ Community Eye Health Journal (CEHJ)
 - Material
 - Money
 
-### Health System Building Blocks
+### Health System
 **Blocks**
 - Leadership and governance
 - Service delivery
