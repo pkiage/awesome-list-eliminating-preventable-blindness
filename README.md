@@ -12,6 +12,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Cataract services: ensuring access for everyone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4069773/)
 - [Current trends in surgical management of myopia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6688407)
 - [Delivering refractive error services: primary eye care centres and outreach.](https://www.cehjournal.org/wp-content/uploads/download/ceh_20_63_042.pdf)
+- [EYE HEALTH SYSTEMS ASSESSMENT (EHSA): HOW TO CONNECT EYE CARE WITH THE GENERAL HEALTH SYSTEM](https://iceh.lshtm.ac.uk/files/2014/03/Eye-health-systems-assessment.pdf)
 - [Evaluation of a national eye care programme: re-survey after 10 years](https://bjo.bmj.com/content/84/9/948)
 - [Global estimates of visual impairment: 2010](https://pubmed.ncbi.nlm.nih.gov/22133988/)
 - [Global Eye Health - One Billion Untreated](https://www.youtube.com/watch?v=5jgRMTyCG_M)
