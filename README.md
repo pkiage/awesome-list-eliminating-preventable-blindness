@@ -59,12 +59,12 @@ Community Eye Health Journal (CEHJ)
 - [National Health Planning Tools · Search](https://extranet.who.int/nhptool/Default.aspx)
 
 ## Organizations
--[International Centre for Eye Health](https://iceh.lshtm.ac.uk/)
--[International Coalition for Trachoma Control](https://www.trachomacoalition.org/)
--[The International Agency for the Prevention of Blindness](https://www.iapb.org/)
--[The Lancet Global Health Commision on Global Eye Health](https://globaleyehealthcommission.org/)
--[The Queen Elizabeth Diamond Jubilee Trust](https://www.jubileetribute.org/)
--[UN Friends of Vision](https://www.iapb.org/advocate/eye-health-and-sdgs/un-friends-of-vision)
+- [International Centre for Eye Health](https://iceh.lshtm.ac.uk/)
+- [International Coalition for Trachoma Control](https://www.trachomacoalition.org/)
+- [The International Agency for the Prevention of Blindness](https://www.iapb.org/)
+- [The Lancet Global Health Commision on Global Eye Health](https://globaleyehealthcommission.org/)
+- [The Queen Elizabeth Diamond Jubilee Trust](https://www.jubileetribute.org/)
+- [UN Friends of Vision](https://www.iapb.org/advocate/eye-health-and-sdgs/un-friends-of-vision)
 
 # Frameworks
 ### **5Ms**
