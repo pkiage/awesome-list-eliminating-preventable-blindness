@@ -53,10 +53,20 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 [ICD-10 Chapter VII Diseases of the eye and adnexa](https://icd.who.int/browse10/2016/en#/VII)
 - [ICD-10 Chapter VII Diseases of the eye and adnexa Block H53-H54 Visual disturbances and blindness](https://icd.who.int/browse10/2016/en#/H53-H54)
 
+### ATC
+- [Anatomical Therapeutic Chemical (ATC) Classification](https://www.who.int/tools/atc-ddd-toolkit/atc-classification)
+- [ATC/DDD Index 2022](https://www.whocc.no/atc_ddd_index/)
+
 ## Journals, Resource Centres, & Repositories
 Community Eye Health Journal (CEHJ)
 - [IAPB Valued Supplier Scheme](https://valuedsupplier.iapb.org/)
 - [National Health Planning Tools · Search](https://extranet.who.int/nhptool/Default.aspx)
+
+### Lists of Essential Medicines
+[WHO Model Lists of Essential Medicines](https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists)
+
+#### Kenya
+[Kenya Essential Medicines List - 2019](https://www.health.go.ke/wp-content/uploads/2020/07/Kenya-Essential-Medicines-List-2019.pdf)
 
 ## Organizations
 - [International Centre for Eye Health](https://iceh.lshtm.ac.uk/)
