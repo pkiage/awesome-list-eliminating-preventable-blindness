@@ -1,5 +1,5 @@
 # Motivation
-Experiences in intiatives addressing eliminating preventable blindness and seeing the impact improved vision has.
+Experiences in intiatives addressing eliminating preventable blindness and seeing the impact of improved vision. 
 
 # Awesome list
 ## Calculators
@@ -60,7 +60,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [ATC/DDD Index 2022](https://www.whocc.no/atc_ddd_index/)
 
 ## Journals, Resource Centres, & Repositories
-- Community Eye Health Journal (CEHJ)
+- [Community Eye Health Journal (CEHJ)](https://www.cehjournal.org/)
 - [IAPB Valued Supplier Scheme](https://valuedsupplier.iapb.org/)
 - [National Health Planning Tools · Search](https://extranet.who.int/nhptool/Default.aspx)
 - [Examine](https://examine.com/)
