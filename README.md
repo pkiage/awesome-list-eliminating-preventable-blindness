@@ -6,7 +6,9 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Procurement calculator for trichiasis management](https://www.trachomacoalition.org/resources/procurement-calculator-trichiasis-management)
 
 ## Articles, Reports, Presentations, & Dashboards
+- [A new handheld fundus camera combined with visual artificial intelligence facilitates diabetic retinopathy screening](https://pubmed.ncbi.nlm.nih.gov/35450182/)
 - [Access to eye care during the COVID-19 pandemic, India](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8795846/)
+- [Artificial intelligence using deep learning to screen for referable and vision-threatening diabetic retinopathy in Africa: a clinical validation study](https://www.sciencedirect.com/science/article/pii/S2589750019300044)
 - [Beyond the clinic: approaches to outreach](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1705639/)
 - [Cataract and “Vision 2020—the right to sight” initiative](https://bjo.bmj.com/content/85/6/635)
 - [Cataract incidence in sub-Saharan Africa: what does mathematical modeling tell us about geographic variations and surgical needs?](https://pubmed.ncbi.nlm.nih.gov/24070099/)
@@ -52,6 +54,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Video: The economics of eye health - The Lancet Global Health Commision on Global Eye Health](https://globaleyehealthcommission.org/commentary/video-the-economics-of-eye-health/)
 - [VISION 2020 - IAPB](https://www.iapb.org/about/history/vision-2020/)
 - [Vision Atlas - IAPB](https://www.iapb.org/learn/vision-atlas/)
+- [Vision centre helps reduce blindness and vision impairment. Proof of concept in a four-year longitudinal study in an urban area in India](https://journals.lww.com/ijo/Fulltext/2022/05000/Vision_centre_helps_reduce_blindness_and_vision.62.aspx)
 - [WHO Handbook for Guideline Development](https://apps.who.int/iris/bitstream/handle/10665/75146/9789241548441_eng.pdf;jsessionid=A1BCC0D03D7A393074C9112DAD7FD5A3?sequence=1)
 - [World Report On Vision - IAPB](https://www.iapb.org/advocate/eye-health-and-universal-health-coverage/world-report-on-vision/)
 - [World Report On Vision -WHO](https://www.who.int/publications/i/item/9789241516570)
