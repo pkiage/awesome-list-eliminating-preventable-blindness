@@ -142,18 +142,6 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 #### Kenya:
 [Kenya Essential Medicines List - 2019](https://www.health.go.ke/wp-content/uploads/2020/07/Kenya-Essential-Medicines-List-2019.pdf)
 
-## Organizations & Groups
-- [AGREE Research Trust](https://www.agreetrust.org/)
-- [GRADE working group](https://www.gradeworkinggroup.org/)
-- [Guidelines International Network](https://g-i-n.net/)
-- [International Centre for Eye Health](https://iceh.lshtm.ac.uk/)
-- [International Coalition for Trachoma Control](https://www.trachomacoalition.org/)
-- [The International Agency for the Prevention of Blindness](https://www.iapb.org/)
-- [The Lancet Global Health Commision on Global Eye Health](https://globaleyehealthcommission.org/)
-- [The Queen Elizabeth Diamond Jubilee Trust](https://www.jubileetribute.org/)
-- [U.S Preventive Services Task Force](https://www.uspreventiveservicestaskforce.org/uspstf/)
-- [UN Friends of Vision](https://www.iapb.org/advocate/eye-health-and-sdgs/un-friends-of-vision)
-
 # Frameworks
 ### **5Ms**
 - Management
@@ -217,7 +205,3 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - Comparison
 - Outcome
 
-# Abbreviations
-- ICD-10: International Statistical Classification of Diseases and Related Health Problems 10th Revision (ICD-10)-WHO Version for ;2016
-- ISEE: Integrated, sustainable, excellent, equitable 
-- Sx: Surgery
