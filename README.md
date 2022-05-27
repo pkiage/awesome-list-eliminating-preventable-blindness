@@ -43,7 +43,6 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Spectacle Wear Among Children in a School-Based Program for Ready-Made vs Custom-Made Spectacles in India: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2618257)
 - [Ten years to VISION 2020: how are we doing?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3033617/)
 - [The accomplishments of the global initiative VISION 2020: The Right to Sight and the focus for the next 8 years of the campaign](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491262/?report=classic)
-- [The Guideline Implementability Decision Excellence Model (GUIDE-M): a mixed methods approach to create an international resource to advance the practice guideline field](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-015-0225-1)
 - [The Lancet Global Health Commission on Global Eye Health: vision beyond 2022](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30488-5/fulltext)
 - [Uncorrected refractive errors](https://journals.lww.com/ijo/Fulltext/2012/60050/Uncorrected_refractive_errors.18.aspx)
 - [Universal eye health: a global action plan 2014–2019](https://www.who.int/publications/i/item/universal-eye-health-a-global-action-plan-2014-2019)
