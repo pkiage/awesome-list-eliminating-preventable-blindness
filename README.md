@@ -6,6 +6,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Procurement calculator for trichiasis management](https://www.trachomacoalition.org/resources/procurement-calculator-trichiasis-management)
 
 ## Articles, Reports, Presentations, & Dashboards
+- [A model for measuring quality care](https://www.med.unc.edu/ihqi/wp-content/uploads/sites/463/2021/01/A-Model-for-Measuring-Quality-Care-NHS-Improvement-brief.pdf)
 - [A new handheld fundus camera combined with visual artificial intelligence facilitates diabetic retinopathy screening](https://pubmed.ncbi.nlm.nih.gov/35450182/)
 - [Access to eye care during the COVID-19 pandemic, India](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8795846/)
 - [Artificial intelligence using deep learning to screen for referable and vision-threatening diabetic retinopathy in Africa: a clinical validation study](https://www.sciencedirect.com/science/article/pii/S2589750019300044)
@@ -18,7 +19,9 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Developing NICE guidelines: the manual](https://www.nice.org.uk/media/default/about/what-we-do/our-programmes/developing-nice-guidelines-the-manual.pdf)
 - [Eye Health Systems Assessment (EHSA): How To Connect Eye Care With The General Health System](https://iceh.lshtm.ac.uk/files/2014/03/Eye-health-systems-assessment.pdf)
 - [Evaluation of a national eye care programme: re-survey after 10 years](https://bjo.bmj.com/content/84/9/948)
+- [Evaluating the Quality of Medical Care - Avedis Donabedian](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0009.2005.00397.x)
 - [Fundamentals to learn, practise and discuss EBM - BMJ Best Practice](https://bestpractice.bmj.com/info/toolkit/)
+- [Getting the measure of quality: Opportunities and challenges](https://www.kingsfund.org.uk/sites/default/files/Getting-the-measure-of-quality-Veena-Raleigh-Catherine-Foot-The-Kings-Fund-January-2010.pdf)
 - [Global estimates of visual impairment: 2010](https://pubmed.ncbi.nlm.nih.gov/22133988/)
 - [Global Eye Health - One Billion Untreated](https://www.youtube.com/watch?v=5jgRMTyCG_M)
 - [Global magnitude of visual impairment caused by uncorrected refractive errors in 2004](https://www.who.int/bulletin/volumes/86/1/07-041210.pdf)
@@ -46,6 +49,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Spectacle Wear Among Children in a School-Based Program for Ready-Made vs Custom-Made Spectacles in India: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2618257)
 - [Ten years to VISION 2020: how are we doing?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3033617/)
 - [The accomplishments of the global initiative VISION 2020: The Right to Sight and the focus for the next 8 years of the campaign](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491262/?report=classic)
+- [The Effectiveness of Policies to Improve Primary Care Access for Underserved Populations: An Assessment of the Literature](https://www.milbank.org/wp-content/uploads/2022/01/Georgetown_6.pdf)
 - [The Lancet Global Health Commission on Global Eye Health: vision beyond 2022](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30488-5/fulltext)
 - [Uncorrected refractive errors](https://journals.lww.com/ijo/Fulltext/2012/60050/Uncorrected_refractive_errors.18.aspx)
 - [Universal eye health: a global action plan 2014–2019](https://www.who.int/publications/i/item/universal-eye-health-a-global-action-plan-2014-2019)
