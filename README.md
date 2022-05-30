@@ -25,12 +25,13 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Global Vision Impairment Due to Uncorrected Presbyopia](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/420914)
 - [How to prescribe spectacles for presbyopia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1705655/)
 - [Human resources for refraction services in Central Nepal](https://www.tandfonline.com/doi/abs/10.1111/cxo.12286)
-- [Kilimanjaro Centre for Community Ophthalmology](https://www.kcco.net/resources/manuals-reports/)
+- [Kilimanjaro Centre for Community Ophthalmology Manual Reports](https://www.kcco.net/resources/manuals-reports/)
 - [Magnitude, temporal trends, and projections of the global prevalence of blindness and distance and near vision impairment: a systematic review and meta-analysis](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext)
 - [Manual: Reaching the Unreached - Community-Based Eye Care Outreach in Developing Nations](https://aravind.org/wp-content/uploads/2019/05/How-to-organise-a-camp.pdf)
 - [Mapping Human Resources for Eye Health in Sub-Saharan Africa: Progress towards VISION 2020](https://www.iapb.org/learn/resources/mapping-human-resources-for-eye-health-in-sub-saharan-africa-progress-towards-vision-2020/)
 - [Models for Evaluation of Vision Centres](https://www.iapb.org/blog/models-for-evaluation-of-vision-centres/)
 - [National Eye Health Coordinator Manual](https://www.iapb.org/learn/resources/national-eye-health-coordinator-manual/)
+- [OECD - Health Care Quality and Outcomes Indicators](https://www.oecd.org/health/health-systems/health-care-quality-outcomes-indicators.htm)
 - [Optical services through outreach in South India: a case study from Aravind Eye Hospitals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1705643/)
 - [Outcomes of high volume cataract surgeries in a developing country](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1772816/)
 - [Pharmaceutical intervention for myopia control](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3023964/)
@@ -39,6 +40,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Routine monitoring of visual outcome of cataract surgery. Part 1: Development of an instrument](https://bjo.bmj.com/content/89/1/45)
 - [School Eye Health Guidelines](https://www.iapb.org/learn/resources/school-eye-health-guidelines/)
 - [SIGN 50 - A guideline developer's handbook](https://www.sign.ac.uk/media/1050/sign50_2019.pdf)
+- [Six Domains of Health Care Quality](https://www.ahrq.gov/talkingquality/measures/six-domains.html)
 - [Spectacle Coverage Report](https://www.iapb.org/learn/resources/spectacle-coverage-report/)
 - [Spectacle Wear Among Children in a School-Based Program for Ready-Made vs Custom-Made Spectacles in India: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2618257)
 - [Ten years to VISION 2020: how are we doing?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3033617/)
@@ -160,7 +162,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - Processess
 - Outcomes
 
-### Health System
+### [WHO Health System Framework](https://extranet.who.int/nhptool/Default.aspx)
 **Blocks:**
 - Leadership and governance
 - Service delivery
@@ -191,6 +193,15 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - Implementation and Management
 - Results, monitoring and review
 
+### [Quality of Care Framework](https://www.who.int/health-topics/quality-of-care#tab=tab_1)
+
+- **Effective** – providing evidence-based healthcare services to those who need them;
+- **Safe** – avoiding harm to people for whom the care is intended; and
+- **People-centred** – providing care that responds to individual preferences, needs and values.
+- **Timely** – reducing waiting times and sometimes harmful delays;
+- **Equitable** – providing care that does not vary in quality on account of gender, ethnicity, geographic location, and socio-economic status;
+- **Integrated** – providing care that makes available the full range of health services throughout the life course;
+- **Efficient** – maximizing the benefit of available resources and avoiding waste.
 
 ### Logic Model of Evaluation
 - Inputs
