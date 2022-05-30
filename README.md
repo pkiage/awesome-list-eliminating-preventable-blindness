@@ -88,7 +88,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [AGREE Reporting Checklist](https://www.agreetrust.org/wp-content/uploads/2016/02/AGREE-Reporting-Checklist-2016.pdf)
 
 #### Appraisal of Guidelines REsearch and Evaluation – Health Systems (AGREE-HS):
-- [Appraisal of Guidelines REsearch and Evaluation - Health Systems (AGREE-HS)](https://www.agreetrust.org/wp-content/uploads/2018/03/AGREE-HS-Manual-March-2018.pdf)
+- [Appraisal of Guidelines Research and Evaluation - Health Systems (AGREE-HS)](https://www.agreetrust.org/wp-content/uploads/2018/03/AGREE-HS-Manual-March-2018.pdf)
 - [AGREE - Health Systems (AGREE-HS) Reporting Checklist](https://www.agreetrust.org/wp-content/uploads/2018/05/AGREE-HS-Reporting-Checklist.pdf)
 
 #### Appraisal of Guidelines REsearch and Evaluation – Recommendations EXcellence (AGREE-REX):
