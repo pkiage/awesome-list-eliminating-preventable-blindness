@@ -15,8 +15,10 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Cataract incidence in sub-Saharan Africa: what does mathematical modeling tell us about geographic variations and surgical needs?](https://pubmed.ncbi.nlm.nih.gov/24070099/)
 - [Cataract services: ensuring access for everyone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4069773/)
 - [Clinical practice guideline development manual: A quality-driven approach for translating evidence into action](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2851142/pdf/nihms180759.pdf)
+- [Cost-effectiveness and cost-utility of traditional and telemedicine combined population-based age-related macular degeneration and diabetic retinopathy screening in rural and urban China](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(22)00050-5/fulltext)
 - [Current trends in surgical management of myopia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6688407)
 - [Developing NICE guidelines: the manual](https://www.nice.org.uk/media/default/about/what-we-do/our-programmes/developing-nice-guidelines-the-manual.pdf)
+- [Effectiveness of an mHealth system on access to eye health services in Kenya: a cluster-randomised controlled trial](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00083-2/fulltext)
 - [Eye Health Systems Assessment (EHSA): How To Connect Eye Care With The General Health System](https://iceh.lshtm.ac.uk/files/2014/03/Eye-health-systems-assessment.pdf)
 - [Evaluation of a national eye care programme: re-survey after 10 years](https://bjo.bmj.com/content/84/9/948)
 - [Evaluating the Quality of Medical Care - Avedis Donabedian](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0009.2005.00397.x)
@@ -29,7 +31,9 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [How to prescribe spectacles for presbyopia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1705655/)
 - [Human resources for refraction services in Central Nepal](https://www.tandfonline.com/doi/abs/10.1111/cxo.12286)
 - [Kilimanjaro Centre for Community Ophthalmology Manual Reports](https://www.kcco.net/resources/manuals-reports/)
+- [Logic Model Development Guide](https://communityindicators.net/wp-content/uploads/2017/11/LogicModel.pdf)
 - [Magnitude, temporal trends, and projections of the global prevalence of blindness and distance and near vision impairment: a systematic review and meta-analysis](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext)
+- [Managing your eye unit's supplies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3284754/)
 - [Manual: Reaching the Unreached - Community-Based Eye Care Outreach in Developing Nations](https://aravind.org/wp-content/uploads/2019/05/How-to-organise-a-camp.pdf)
 - [Mapping Human Resources for Eye Health in Sub-Saharan Africa: Progress towards VISION 2020](https://www.iapb.org/learn/resources/mapping-human-resources-for-eye-health-in-sub-saharan-africa-progress-towards-vision-2020/)
 - [Models for Evaluation of Vision Centres](https://www.iapb.org/blog/models-for-evaluation-of-vision-centres/)
@@ -38,8 +42,10 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [OECD - Health Care Quality and Outcomes (HCQO) 2020-21 Indicator Definitions](https://www.oecd.org/els/health-systems/Definitions-of-Health-Care-Quality-Outcomes.pdf)
 - [Optical services through outreach in South India: a case study from Aravind Eye Hospitals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1705643/)
 - [Outcomes of high volume cataract surgeries in a developing country](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1772816/)
+- [Patient flow and cost](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864051/)
 - [Pharmaceutical intervention for myopia control](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3023964/)
 - [Planning for VISION 2020 at the District Level: A Manual](https://www.iapb.org/learn/resources/planning-for-vision-2020-at-the-district-level-a-manual/)
+- [Purchasing instruments and consumables](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3284757/)
 - [Reporting Items for Updated Clinical Guidelines: Checklist for the Reporting of Updated Guidelines (CheckUp)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002207)
 - [Routine monitoring of visual outcome of cataract surgery. Part 1: Development of an instrument](https://bjo.bmj.com/content/89/1/45)
 - [School Eye Health Guidelines](https://www.iapb.org/learn/resources/school-eye-health-guidelines/)
@@ -50,10 +56,12 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Ten years to VISION 2020: how are we doing?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3033617/)
 - [The accomplishments of the global initiative VISION 2020: The Right to Sight and the focus for the next 8 years of the campaign](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491262/?report=classic)
 - [The Effectiveness of Policies to Improve Primary Care Access for Underserved Populations: An Assessment of the Literature](https://www.milbank.org/wp-content/uploads/2022/01/Georgetown_6.pdf)
+- [The Good Indicators Guide: Understanding how to use and choose indicators](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/The-Good-Indicators-Guide.pdf)
 - [The Lancet Global Health Commission on Global Eye Health: vision beyond 2022](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30488-5/fulltext)
 - [Uncorrected refractive errors](https://journals.lww.com/ijo/Fulltext/2012/60050/Uncorrected_refractive_errors.18.aspx)
 - [Universal eye health: a global action plan 2014–2019](https://www.who.int/publications/i/item/universal-eye-health-a-global-action-plan-2014-2019)
 - [Unravelling ‘low-resource settings’: a systematic scoping review with qualitative content analysis](https://gh.bmj.com/content/6/6/e005190)
+- [Using Lean Six Sigma techniques to improve efficiency in outpatient ophthalmology clinics](https://link.springer.com/article/10.1186/s12913-020-06034-3)
 - [Video: Equity in eye health - The Lancet Global Health Commision on Global Eye Health](https://globaleyehealthcommission.org/commentary/video-equality-in-eye-health/)
 - [Video: Eye Health and the SDGs - The Lancet Global Health Commision on Global Eye Health](https://globaleyehealthcommission.org/commentary/video-eye-health-and-the-sdgs)
 - [Video: General health, wellbeing and mortality](https://globaleyehealthcommission.org/commentary/video-general-health-wellbeing-and-mortality/)
@@ -115,8 +123,13 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 [The Epidemiology of Eye Disease 3rd Edition](https://www.worldscientific.com/worldscibooks/10.1142/p742)
 
 ## Classification
+[International Classification of Health Interventions (ICHI)](https://icd.who.int/dev11/l-ichi/en)
+
 [ICD-10 Chapter VII Diseases of the eye and adnexa](https://icd.who.int/browse10/2016/en#/VII)
 - [ICD-10 Chapter VII Diseases of the eye and adnexa Block H53-H54 Visual disturbances and blindness](https://icd.who.int/browse10/2016/en#/H53-H54)
+
+[ICD-11 for Mortality and Morbidity Statistics](https://icd.who.int/browse11/l-m/en)
+- [ICD-11 Chapter 9 Diseases of the visual system](https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f868865918)
 
 ### Medicines 
 #### ATC:
@@ -209,10 +222,11 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - **Efficient** – maximizing the benefit of available resources and avoiding waste.
 
 ### Logic Model of Evaluation
-- Inputs
+- Resources/Inputs
 - Activities
 - Outputs
 - Outcomes
+- Impact
 
 ### PICO
 - Population
