@@ -245,7 +245,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - Intervention
 - Comparison
 - Outcome
-- 
+ 
 ### [Quality of Care Framework](https://www.who.int/health-topics/quality-of-care#tab=tab_1)
 
 - **Effective** – providing evidence-based healthcare services to those who need them;
