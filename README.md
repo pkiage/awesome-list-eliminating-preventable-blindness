@@ -2,6 +2,8 @@
 Experiences in intiatives addressing eliminating preventable blindness and seeing the impact of improved vision. 
 
 # Knowledge Repository
+[Health facility](https://github.com/pkiage/repository-health-facility)
+
 ## Calculators
 - [Procurement calculator for trichiasis management](https://www.trachomacoalition.org/resources/procurement-calculator-trichiasis-management)
 
