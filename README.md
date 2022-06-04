@@ -8,7 +8,10 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 ## Articles, Reports, Presentations, & Dashboards
 - [A model for measuring quality care](https://www.med.unc.edu/ihqi/wp-content/uploads/sites/463/2021/01/A-Model-for-Measuring-Quality-Care-NHS-Improvement-brief.pdf)
 - [A new handheld fundus camera combined with visual artificial intelligence facilitates diabetic retinopathy screening](https://pubmed.ncbi.nlm.nih.gov/35450182/)
+- [A Sustainable Model For Delivering High-Quality, Efficient Cataract Surgery In Southern India](https://www.healthaffairs.org/doi/10.1377/hlthaff.2016.0562)
 - [Access to eye care during the COVID-19 pandemic, India](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8795846/)
+- [Affordability of cataract surgery using the Big Mac prices](https://www.sciencedirect.com/science/article/pii/S0187451914000778)
+- [Aravind Eye-Care System – McDonaldization of Eye-Care](https://digital.hbs.edu/platform-rctom/submission/aravind-eye-care-system-mcdonaldization-of-eye-care/)
 - [Artificial intelligence using deep learning to screen for referable and vision-threatening diabetic retinopathy in Africa: a clinical validation study](https://www.sciencedirect.com/science/article/pii/S2589750019300044)
 - [Beyond the clinic: approaches to outreach](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1705639/)
 - [Cataract and “Vision 2020—the right to sight” initiative](https://bjo.bmj.com/content/85/6/635)
@@ -18,6 +21,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Cost-effectiveness and cost-utility of traditional and telemedicine combined population-based age-related macular degeneration and diabetic retinopathy screening in rural and urban China](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(22)00050-5/fulltext)
 - [Current trends in surgical management of myopia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6688407)
 - [Developing NICE guidelines: the manual](https://www.nice.org.uk/media/default/about/what-we-do/our-programmes/developing-nice-guidelines-the-manual.pdf)
+- [Driving down the cost of high-quality care - Lessons from the Aravind Eye Care System](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/healthcare%20systems%20and%20services/health%20international/issue%2011%20new%20pdfs/hi11_18%20aravindeyecaresys_noprint.ashx)
 - [Effectiveness of an mHealth system on access to eye health services in Kenya: a cluster-randomised controlled trial](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00083-2/fulltext)
 - [Eye Health Systems Assessment (EHSA): How To Connect Eye Care With The General Health System](https://iceh.lshtm.ac.uk/files/2014/03/Eye-health-systems-assessment.pdf)
 - [Evaluation of a national eye care programme: re-survey after 10 years](https://bjo.bmj.com/content/84/9/948)
