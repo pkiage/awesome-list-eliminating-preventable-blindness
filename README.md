@@ -22,7 +22,11 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Current trends in surgical management of myopia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6688407)
 - [Developing NICE guidelines: the manual](https://www.nice.org.uk/media/default/about/what-we-do/our-programmes/developing-nice-guidelines-the-manual.pdf)
 - [Driving down the cost of high-quality care - Lessons from the Aravind Eye Care System](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/healthcare%20systems%20and%20services/health%20international/issue%2011%20new%20pdfs/hi11_18%20aravindeyecaresys_noprint.ashx)
+- [Economic cost of cataract surgery procedures in an established eye care centre in Southern India](https://pubmed.ncbi.nlm.nih.gov/15590584/)
 - [Effectiveness of an mHealth system on access to eye health services in Kenya: a cluster-randomised controlled trial](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00083-2/fulltext)
+- [Eye care in health systems: guide for action - WHO](https://www.who.int/publications/i/item/9789240050068)
+- [Eye Care Competency Framework (ECCF)](https://www.who.int/publications/i/item/9789240048416)
+- [Eye care indicator menu (ECIM)](https://www.who.int/publications/i/item/9789240049529)
 - [Eye Health Systems Assessment (EHSA): How To Connect Eye Care With The General Health System](https://iceh.lshtm.ac.uk/files/2014/03/Eye-health-systems-assessment.pdf)
 - [Evaluation of a national eye care programme: re-survey after 10 years](https://bjo.bmj.com/content/84/9/948)
 - [Evaluating the Quality of Medical Care - Avedis Donabedian](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0009.2005.00397.x)
@@ -49,6 +53,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [OECD - Health Care Quality and Outcomes (HCQO) 2020-21 Indicator Definitions](https://www.oecd.org/els/health-systems/Definitions-of-Health-Care-Quality-Outcomes.pdf)
 - [Optical services through outreach in South India: a case study from Aravind Eye Hospitals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1705643/)
 - [Outcomes of high volume cataract surgeries in a developing country](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1772816/)
+- [Package of Eye Care Interventions (PECI)](https://www.who.int/publications/i/item/9789240048959)
 - [Patient flow and cost](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864051/)
 - [Pharmaceutical intervention for myopia control](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3023964/)
 - [Planning for VISION 2020 at the District Level: A Manual](https://www.iapb.org/learn/resources/planning-for-vision-2020-at-the-district-level-a-manual/)
@@ -62,6 +67,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Spectacle Wear Among Children in a School-Based Program for Ready-Made vs Custom-Made Spectacles in India: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2618257)
 - [Ten years to VISION 2020: how are we doing?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3033617/)
 - [The accomplishments of the global initiative VISION 2020: The Right to Sight and the focus for the next 8 years of the campaign](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491262/?report=classic)
+- [The economics of vision impairment and its leading causes: A systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8943414/)
 - [The Effectiveness of Policies to Improve Primary Care Access for Underserved Populations: An Assessment of the Literature](https://www.milbank.org/wp-content/uploads/2022/01/Georgetown_6.pdf)
 - [The Good Indicators Guide: Understanding how to use and choose indicators](https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/The-Good-Indicators-Guide.pdf)
 - [The Lancet Global Health Commission on Global Eye Health: vision beyond 2022](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30488-5/fulltext)
@@ -69,6 +75,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Universal eye health: a global action plan 2014–2019](https://www.who.int/publications/i/item/universal-eye-health-a-global-action-plan-2014-2019)
 - [Unravelling ‘low-resource settings’: a systematic scoping review with qualitative content analysis](https://gh.bmj.com/content/6/6/e005190)
 - [Using Lean Six Sigma techniques to improve efficiency in outpatient ophthalmology clinics](https://link.springer.com/article/10.1186/s12913-020-06034-3)
+- [Variation of cataract surgery costs in four different graded providers of China](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-10-543)
 - [Video: Equity in eye health - The Lancet Global Health Commision on Global Eye Health](https://globaleyehealthcommission.org/commentary/video-equality-in-eye-health/)
 - [Video: Eye Health and the SDGs - The Lancet Global Health Commision on Global Eye Health](https://globaleyehealthcommission.org/commentary/video-eye-health-and-the-sdgs)
 - [Video: General health, wellbeing and mortality](https://globaleyehealthcommission.org/commentary/video-general-health-wellbeing-and-mortality/)
@@ -187,7 +194,15 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - Processess
 - Outcomes
 
-### [WHO Health System Framework](https://extranet.who.int/nhptool/Default.aspx)
+### [Eye Care Competency Framework (ECCF) 6 domains of competencies and activities of the eye care worker](https://www.who.int/publications/i/item/9789240048416)
+- Practice
+- Professionalism
+- Learning and Development
+- Management and Leadership
+- Community and Advocacy
+- Evidence
+
+### [Health System Framework - WHO](https://extranet.who.int/nhptool/Default.aspx)
 **Blocks:**
 - Leadership and governance
 - Service delivery
@@ -218,16 +233,6 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - Implementation and Management
 - Results, monitoring and review
 
-### [Quality of Care Framework](https://www.who.int/health-topics/quality-of-care#tab=tab_1)
-
-- **Effective** – providing evidence-based healthcare services to those who need them;
-- **Safe** – avoiding harm to people for whom the care is intended; and
-- **People-centred** – providing care that responds to individual preferences, needs and values.
-- **Timely** – reducing waiting times and sometimes harmful delays;
-- **Equitable** – providing care that does not vary in quality on account of gender, ethnicity, geographic location, and socio-economic status;
-- **Integrated** – providing care that makes available the full range of health services throughout the life course;
-- **Efficient** – maximizing the benefit of available resources and avoiding waste.
-
 ### Logic Model of Evaluation
 - Resources/Inputs
 - Activities
@@ -240,4 +245,13 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - Intervention
 - Comparison
 - Outcome
+- 
+### [Quality of Care Framework](https://www.who.int/health-topics/quality-of-care#tab=tab_1)
 
+- **Effective** – providing evidence-based healthcare services to those who need them;
+- **Safe** – avoiding harm to people for whom the care is intended; and
+- **People-centred** – providing care that responds to individual preferences, needs and values.
+- **Timely** – reducing waiting times and sometimes harmful delays;
+- **Equitable** – providing care that does not vary in quality on account of gender, ethnicity, geographic location, and socio-economic status;
+- **Integrated** – providing care that makes available the full range of health services throughout the life course;
+- **Efficient** – maximizing the benefit of available resources and avoiding waste.
