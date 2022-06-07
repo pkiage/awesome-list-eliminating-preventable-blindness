@@ -67,6 +67,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Pharmaceutical intervention for myopia control](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3023964/)
 - [Planning for VISION 2020 at the District Level: A Manual](https://www.iapb.org/learn/resources/planning-for-vision-2020-at-the-district-level-a-manual/)
 - [Purchasing instruments and consumables](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3284757/)
+- [Process evaluation of a National Primary Eye Care Programme in Rwanda](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286556/pdf/12913_2018_Article_3718.pdf)
 - [Reporting Items for Updated Clinical Guidelines: Checklist for the Reporting of Updated Guidelines (CheckUp)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002207)
 - [Routine monitoring of visual outcome of cataract surgery. Part 1: Development of an instrument](https://bjo.bmj.com/content/89/1/45)
 - [School Eye Health Guidelines](https://www.iapb.org/learn/resources/school-eye-health-guidelines/)
