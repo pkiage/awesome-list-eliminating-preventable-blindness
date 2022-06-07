@@ -48,7 +48,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [How to prescribe spectacles for presbyopia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1705655/)
 - [Human resources for refraction services in Central Nepal](https://www.tandfonline.com/doi/abs/10.1111/cxo.12286)
 - [Implementation of a diabetic retinopathy referral network, Peru](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6238996/)
-- [Integrated people-centred eye care (IPCEC) - IAPB](https://www.iapb.org/wp-content/uploads/2020/09/IAPB-DP-text-draft-Learn-about-Integrated-people-centred-eye-care-2.pdf)
+- [Integrated people-centred eye care (IPEC) - IAPB](https://www.iapb.org/wp-content/uploads/2020/09/IAPB-DP-text-draft-Learn-about-Integrated-people-centred-eye-care-2.pdf)
 - [Integrated people-centred eye care, including preventable vision impairment and blindness - WHO](https://apps.who.int/gb/ebwha/pdf_files/EB146/B146_R8-en.pdf)
 - [Integrated People-Centred Eye Care (IPEC): Understanding Before Advocating](https://www.iapb.org/blog/integrated-people-centred-eye-care-ipec-understanding-before-advocating/)
 - [Kilimanjaro Centre for Community Ophthalmology Manual Reports](https://www.kcco.net/resources/manuals-reports/)
