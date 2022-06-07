@@ -7,7 +7,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 ## Calculators
 - [Procurement calculator for trichiasis management](https://www.trachomacoalition.org/resources/procurement-calculator-trichiasis-management)
 
-## Articles, Reports, Presentations, & Dashboards
+## Dashboards & Literature
 - [A74/9 Add.3 Provisional agenda item 13.9 Integrated people-centred eye care, including preventable vision impairment and blindness](https://apps.who.int/gb/ebwha/pdf_files/WHA74/A74_9Add3-en.pdf)
 - [A/RES/75/310 Agenda item 24 Vision for Everyone: accelerating action to achieve the Sustainable Development Goals](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N21/204/98/PDF/N2120498.pdf?OpenElement)
 - [A model for measuring quality care](https://www.med.unc.edu/ihqi/wp-content/uploads/sites/463/2021/01/A-Model-for-Measuring-Quality-Care-NHS-Improvement-brief.pdf)
