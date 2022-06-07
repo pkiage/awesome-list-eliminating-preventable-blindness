@@ -8,6 +8,8 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Procurement calculator for trichiasis management](https://www.trachomacoalition.org/resources/procurement-calculator-trichiasis-management)
 
 ## Articles, Reports, Presentations, & Dashboards
+- [A74/9 Add.3 Provisional agenda item 13.9 Integrated people-centred eye care, including preventable vision impairment and blindness](https://apps.who.int/gb/ebwha/pdf_files/WHA74/A74_9Add3-en.pdf)
+- [A/RES/75/310 Agenda item 24](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N21/204/98/PDF/N2120498.pdf?OpenElement)
 - [A model for measuring quality care](https://www.med.unc.edu/ihqi/wp-content/uploads/sites/463/2021/01/A-Model-for-Measuring-Quality-Care-NHS-Improvement-brief.pdf)
 - [A new handheld fundus camera combined with visual artificial intelligence facilitates diabetic retinopathy screening](https://pubmed.ncbi.nlm.nih.gov/35450182/)
 - [A Sustainable Model For Delivering High-Quality, Efficient Cataract Surgery In Southern India](https://www.healthaffairs.org/doi/10.1377/hlthaff.2016.0562)
@@ -28,6 +30,9 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Driving down the cost of high-quality care - Lessons from the Aravind Eye Care System](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/healthcare%20systems%20and%20services/health%20international/issue%2011%20new%20pdfs/hi11_18%20aravindeyecaresys_noprint.ashx)
 - [Economic cost of cataract surgery procedures in an established eye care centre in Southern India](https://pubmed.ncbi.nlm.nih.gov/15590584/)
 - [Effectiveness of an mHealth system on access to eye health services in Kenya: a cluster-randomised controlled trial](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00083-2/fulltext)
+- [2030 in Sight:Ending Avoidable Sight Loss](https://www.iapb.org/about/2030-in-sight/)
+  - [2030 in Sight:Ending Avoidable Sight Loss-Strategy Document](https://www.iapb.org/wp-content/uploads/2022/02/2030inSight-Strategy-Document-Sep2021-English.pdf)
+  - [2030 in Sight:Ending Avoidable Sight Loss-Summary](https://www.iapb.org/wp-content/uploads/2021/09/2030InSight_Summary_Sept_2021.pdf)
 - [Eye care in health systems: guide for action - WHO](https://www.who.int/publications/i/item/9789240050068)
 - [Eye Care Competency Framework (ECCF)](https://www.who.int/publications/i/item/9789240048416)
 - [Eye care indicator menu (ECIM)](https://www.who.int/publications/i/item/9789240049529)
@@ -88,6 +93,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [VISION 2020 - IAPB](https://www.iapb.org/about/history/vision-2020/)
 - [Vision Atlas - IAPB](https://www.iapb.org/learn/vision-atlas/)
 - [Vision centre helps reduce blindness and vision impairment. Proof of concept in a four-year longitudinal study in an urban area in India](https://journals.lww.com/ijo/Fulltext/2022/05000/Vision_centre_helps_reduce_blindness_and_vision.62.aspx)
+- [WHA73.4 Agenda item 11.7 -Integrated people-centred eye care, including preventable vision impairment and blindness](https://apps.who.int/gb/ebwha/pdf_files/WHA74/A74_9Add3-en.pdf)
 - [WHO Handbook for Guideline Development](https://apps.who.int/iris/bitstream/handle/10665/75146/9789241548441_eng.pdf;jsessionid=A1BCC0D03D7A393074C9112DAD7FD5A3?sequence=1)
 - [World Report On Vision - IAPB](https://www.iapb.org/advocate/eye-health-and-universal-health-coverage/world-report-on-vision/)
 - [World Report On Vision -WHO](https://www.who.int/publications/i/item/9789241516570)
