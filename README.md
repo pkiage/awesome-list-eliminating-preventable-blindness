@@ -9,7 +9,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 
 ## Articles, Reports, Presentations, & Dashboards
 - [A74/9 Add.3 Provisional agenda item 13.9 Integrated people-centred eye care, including preventable vision impairment and blindness](https://apps.who.int/gb/ebwha/pdf_files/WHA74/A74_9Add3-en.pdf)
-- [A/RES/75/310 Agenda item 24](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N21/204/98/PDF/N2120498.pdf?OpenElement)
+- [A/RES/75/310 Agenda item 24 Vision for Everyone: accelerating action to achieve the Sustainable Development Goals](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N21/204/98/PDF/N2120498.pdf?OpenElement)
 - [A model for measuring quality care](https://www.med.unc.edu/ihqi/wp-content/uploads/sites/463/2021/01/A-Model-for-Measuring-Quality-Care-NHS-Improvement-brief.pdf)
 - [A new handheld fundus camera combined with visual artificial intelligence facilitates diabetic retinopathy screening](https://pubmed.ncbi.nlm.nih.gov/35450182/)
 - [A Sustainable Model For Delivering High-Quality, Efficient Cataract Surgery In Southern India](https://www.healthaffairs.org/doi/10.1377/hlthaff.2016.0562)
