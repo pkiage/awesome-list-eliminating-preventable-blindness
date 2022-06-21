@@ -84,6 +84,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [The Lancet Global Health Commission on Global Eye Health: vision beyond 2022](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30488-5/fulltext)
   - [The Lancet Global Health Commission on Global Eye Health: vision beyond 2022 - Supplementary appendix 2](https://fhfipec.s3.ap-southeast-2.amazonaws.com/Lancet+Appendix+2.pdf)
 - [Uncorrected refractive errors](https://journals.lww.com/ijo/Fulltext/2012/60050/Uncorrected_refractive_errors.18.aspx)
+- [Unified Diagnosis Framework for Automated Nuclear Cataract Grading Based on Smartphone Slit-Lamp Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9201392)
 - [Universal eye health: a global action plan 2014–2019](https://www.who.int/publications/i/item/universal-eye-health-a-global-action-plan-2014-2019)
 - [Unravelling ‘low-resource settings’: a systematic scoping review with qualitative content analysis](https://gh.bmj.com/content/6/6/e005190)
 - [Using Lean Six Sigma techniques to improve efficiency in outpatient ophthalmology clinics](https://link.springer.com/article/10.1186/s12913-020-06034-3)
