@@ -59,6 +59,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Mapping Human Resources for Eye Health in Sub-Saharan Africa: Progress towards VISION 2020](https://www.iapb.org/learn/resources/mapping-human-resources-for-eye-health-in-sub-saharan-africa-progress-towards-vision-2020/)
 - [Models for Evaluation of Vision Centres](https://www.iapb.org/blog/models-for-evaluation-of-vision-centres/)
 - [National Eye Health Coordinator Manual](https://www.iapb.org/learn/resources/national-eye-health-coordinator-manual/)
+- [National Eye Health Strategic Plan 2020-2025 (Republic of Kenya Ministry of Health)](https://www.health.go.ke/wp-content/uploads/2020/12/National-Eye-Health-Strategy-Plan-2020-2025.pdf)
 - [OECD - Health Care Quality and Outcomes Indicators](https://www.oecd.org/health/health-systems/health-care-quality-outcomes-indicators.htm)
 - [OECD - Health Care Quality and Outcomes (HCQO) 2020-21 Indicator Definitions](https://www.oecd.org/els/health-systems/Definitions-of-Health-Care-Quality-Outcomes.pdf)
 - [Optical services through outreach in South India: a case study from Aravind Eye Hospitals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1705643/)
