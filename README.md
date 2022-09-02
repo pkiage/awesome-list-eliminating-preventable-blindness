@@ -58,6 +58,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Manual: Reaching the Unreached - Community-Based Eye Care Outreach in Developing Nations](https://aravind.org/wp-content/uploads/2019/05/How-to-organise-a-camp.pdf)
 - [Mapping Human Resources for Eye Health in Sub-Saharan Africa: Progress towards VISION 2020](https://www.iapb.org/learn/resources/mapping-human-resources-for-eye-health-in-sub-saharan-africa-progress-towards-vision-2020/)
 - [Models for Evaluation of Vision Centres](https://www.iapb.org/blog/models-for-evaluation-of-vision-centres/)
+- [N‐acetylcarnosine (NAC) drops for age‐related cataract](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6464029/)
 - [National Eye Health Coordinator Manual](https://www.iapb.org/learn/resources/national-eye-health-coordinator-manual/)
 - [National Eye Health Strategic Plan 2020-2025 (Republic of Kenya Ministry of Health)](https://www.health.go.ke/wp-content/uploads/2020/12/National-Eye-Health-Strategy-Plan-2020-2025.pdf)
 - [OECD - Health Care Quality and Outcomes Indicators](https://www.oecd.org/health/health-systems/health-care-quality-outcomes-indicators.htm)
