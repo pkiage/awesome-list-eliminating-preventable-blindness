@@ -8,6 +8,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Procurement calculator for trichiasis management](https://www.trachomacoalition.org/resources/procurement-calculator-trichiasis-management)
 
 ## Dashboards & Literature
+- [2019 Kenya Population and Housing Census Volume IV: Distribution of Population by Socio-Economic Characteristics](https://www.knbs.or.ke/?wpdmpro=2019-kenya-population-and-housing-census-volume-iv-distribution-of-population-by-socio-economic-characteristics)
 - [A74/9 Add.3 Provisional agenda item 13.9 Integrated people-centred eye care, including preventable vision impairment and blindness](https://apps.who.int/gb/ebwha/pdf_files/WHA74/A74_9Add3-en.pdf)
 - [A/RES/75/310 Agenda item 24 Vision for Everyone: accelerating action to achieve the Sustainable Development Goals](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N21/204/98/PDF/N2120498.pdf?OpenElement)
 - [A model for measuring quality care](https://www.med.unc.edu/ihqi/wp-content/uploads/sites/463/2021/01/A-Model-for-Measuring-Quality-Care-NHS-Improvement-brief.pdf)
