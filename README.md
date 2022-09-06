@@ -76,6 +76,7 @@ Experiences in intiatives addressing eliminating preventable blindness and seein
 - [Routine monitoring of visual outcome of cataract surgery. Part 1: Development of an instrument](https://bjo.bmj.com/content/89/1/45)
 - [School Eye Health Guidelines](https://www.iapb.org/learn/resources/school-eye-health-guidelines/)
 - [SIGN 50 - A guideline developer's handbook](https://www.sign.ac.uk/media/1050/sign50_2019.pdf)
+- [Simulation Center Manual AN ORBIS INTERNATIONAL PUBLICATION](https://www.researchgate.net/publication/344850344_Simulation_Center_Manual_AN_ORBIS_INTERNATIONAL_PUBLICATION)
 - [Six Domains of Health Care Quality](https://www.ahrq.gov/talkingquality/measures/six-domains.html)
 - [Spectacle Coverage Report](https://www.iapb.org/learn/resources/spectacle-coverage-report/)
 - [Spectacle Wear Among Children in a School-Based Program for Ready-Made vs Custom-Made Spectacles in India: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2618257)
